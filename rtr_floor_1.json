@@ -67,7 +67,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/jitsi.rtrsupport.de\/sbecker-aelnmevihdsdjrnvbdms#config.callDisplayName=%22Steffen's%20Personal%20Meeting%22"
+                 "value":"rtr_wmf"
                 }],
          "type":"tilelayer",
          "visible":true,
