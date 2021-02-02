@@ -67,7 +67,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/owncloud.rtrsupport.de\/apps\/gallery\/s\/D4STCd9jsHXiWw8#Alexander.jpg"
+                 "value":"https:\/\/pigallery2.herokuapp.com\/api\/gallery\/random\/?directory=.&recursive=true"
                 }],
          "type":"tilelayer",
          "visible":true,
