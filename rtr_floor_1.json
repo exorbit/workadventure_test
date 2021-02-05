@@ -67,7 +67,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/pigallery2.herokuapp.com\/api\/gallery\/random\/?directory=.&recursive=true"
+                 "value":"https:\/\/pigallery.k8s-int.rtrsupport.de\/gallery\/K%C3%BCchendienst"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -85,7 +85,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/pigallery2.herokuapp.com\/api\/gallery\/random\/?directory=.&recursive=true"
+                 "value":"https:\/\/pigallery.k8s-int.rtrsupport.de\/gallery\/Crew?p=Martin.JPG"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -103,7 +103,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/owncloud.rtrsupport.de\/apps\/gallery\/s\/ZEyM7beerkamY2R#IMG_9936.jpg"
+                 "value":"https:\/\/pigallery.k8s-int.rtrsupport.de\/gallery\/K%C3%BCchendienst?p=19.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1616,6 +1616,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":1.5,
  "width":56
 }
