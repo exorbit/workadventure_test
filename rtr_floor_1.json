@@ -85,7 +85,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/pigallery.k8s-int.rtrsupport.de\/gallery\/Crew?p=Martin.JPG"
+                 "value":"https:\/\/pigallery.rtrsupport.de\/gallery\/Crew?p=Martin.JPG"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -103,7 +103,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/pigallery.k8s-int.rtrsupport.de\/gallery\/K%C3%BCchendienst?p=19.jpg"
+                 "value":"https:\/\/pigallery.rtrsupport.de\/gallery\/K%C3%BCchendienst?p=19.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
